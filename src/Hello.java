@@ -9,6 +9,8 @@ public class Hello {
 		Ken.talk();
 		System.out.println("YOURE WELCOME!");
 		System.out.println("...");
+		System.out.println("THE PARTY IS OVER!");
+		System.out.println("SEE YA SOON!");
 	}
 
 }
