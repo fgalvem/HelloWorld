@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("\t\tLet's go party!");
 		Barbie.talk();
 		Ken.talk();
+		System.out.println("YOURE WELCOME!");
+		System.out.println("...");
 	}
 
 }
