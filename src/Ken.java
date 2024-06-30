@@ -2,7 +2,7 @@
 public class Ken {
 
 	public static void talk() {
-		System.out.println("oh no! I'll rest on the beach tanning!");
+		System.out.println("(KEN: ) oh no! I'll rest on the beach tanning!");
 	}
 	
 }
