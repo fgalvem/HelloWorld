@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("...");
 		System.out.println("THE PARTY IS OVER!");
 		System.out.println("SEE YA SOON!");
+		System.out.println("...today is 20251027...");
 	}
 
 }
